@@ -10,7 +10,7 @@ public class Main {
 		frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		frame.add(gamePanel);
 		
-		frame.setTitle("The Snake Game by Java Coding Community");
+		frame.setTitle("The Snake Game ");
 		frame.pack();
 		frame.setVisible(true);
 		frame.setLocationRelativeTo(null);
